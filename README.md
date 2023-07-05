@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ---
-I'm Su Young 🤠
+I'm Su Young 
 ------
 📚 Studying
 ------
