@@ -25,8 +25,11 @@ I'm Su Young
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=JavaScript)
 ![REACT](https://img.shields.io/badge/-React.js-000?style=flat-square&logo=React)
 ------
-📄 Studied When in university
-------
+📄 Edu.
+  구름 아카데미 자바 스프링 & 리액트 풀스택 개발자 성장 과정 2기(23.08.14~),  
+  컴퓨터 공학 졸업 (2020.02),
+ 
+------ 
 ![C](https://img.shields.io/badge/-C-000?style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-000?style=flat-square)
 ![JAVA#](https://img.shields.io/badge/-Java-000?style=flat-square)
