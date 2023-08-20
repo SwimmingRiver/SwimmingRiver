@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 ---
 I'm Su Young 
 ------
+ - email: swimmingr@gmail.com
+ - velog: https://velog.io/@river8492
+
 📚 Studying
 ------
 ![HTML5](https://img.shields.io/badge/-HTML-000?style=flat-square&logo=HTML5)
