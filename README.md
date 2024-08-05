@@ -29,7 +29,7 @@ I'm Su Young
 ![REACT](https://img.shields.io/badge/-React.js-000?style=flat-square&logo=React)
 ------
 📄 Edu.  
-  원티드 온보딩 챌린지 프론트 엔드 3월,8월
+  원티드 온보딩 챌린지 프론트 엔드 3월,8월,
   구름 아카데미 자바 스프링 & 리액트 풀스택 개발자 성장 과정 2기(23.08.14~),  
   컴퓨터 공학 졸업 (2020.02),
  
