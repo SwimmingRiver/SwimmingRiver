@@ -4,9 +4,10 @@
 # Hi, I'm **Su Young** 👋  
 기능 구현을 넘어 사용자 입장에서 개선하는 개발자입니다.
 
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@river8492)
+[![Blog](https://img.shields.io/badge/Blog-riv--dev--blog.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://riv-dev-blog.vercel.app/)
 [![Email](https://img.shields.io/badge/swimmingr%40gmail.com-000?style=for-the-badge&logo=gmail)](mailto:swimmingr@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=SwimmingRiver&style=for-the-badge&color=0E8F77)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@river8492)
 
 </div>
 
