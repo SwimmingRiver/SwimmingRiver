@@ -75,7 +75,19 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwimmingRiver&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwimmingRiver&layout=compact&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SwimmingRiver&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j&locale=ko)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/SwimmingRiver/SwimmingRiver/main/profile-summary-card-output/transparent/0-profile-details.svg)
+
+</div>
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/SwimmingRiver/SwimmingRiver/main/profile-summary-card-output/transparent/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/SwimmingRiver/SwimmingRiver/main/profile-summary-card-output/transparent/2-most-commit-language.svg)
 
 </div>
